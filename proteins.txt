@@ -1,0 +1,6 @@
+# Fichero de ejemplo para el ejemplo de git
+
+Lysozyme Chicken LYSC_CHICK P00698
+Lysozyme Human LYSC_HUMAN P61626
+Hemoglobin-alpha Human HBA_HUMAN P69905
+Hemoglobin-beta Human HBB_HUMAN P68871
